@@ -1,0 +1,4 @@
+com\howoo\simplerpc\Request.class
+com\howoo\simplerpc\ServiceDescriptor.class
+com\howoo\simplerpc\Response.class
+com\howoo\simplerpc\Peer.class
